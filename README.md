@@ -13,7 +13,7 @@ A full-stack application for apartment management with:
 ## Quick Start with Docker
 ```bash
 # Clone the project
-git clone https://github.com/yourusername/the-address-apartments-project.git
+git clone https://github.com/EdroVolt/the-address-apartments-project.git
 cd the-address-apartments-project
 
 # Build and start all services
